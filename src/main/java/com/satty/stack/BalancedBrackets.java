@@ -5,4 +5,8 @@ package com.satty.stack;
  */
 
 public class BalancedBrackets {
+
+    public static void main(String [] args){
+    }
+
 }

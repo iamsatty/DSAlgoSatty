@@ -1,10 +1,10 @@
 package com.satty.array;
 
-public class TwoNumberSum {
+/**
+ * @author - Satyendra Yadav
+ */
 
-    /**
-     * @author - Satyendra Yadav
-     */
+public class TwoNumberSum {
 
     public static void main(String [] args){
 
